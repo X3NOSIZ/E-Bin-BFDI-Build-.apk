@@ -1,5 +1,5 @@
 # E-Bin-BFDI-Build-.apk
-The .apk file for E-Bin project (Review: 03.02.2020)
+The .apk file for E-Bin project (Review: 03.02.2020) - https://e-bin.netlify.com
 
 ### Just download the E-Bin.apk file or clone it using git-glone on your local & after installing it, you are good to go!
 
